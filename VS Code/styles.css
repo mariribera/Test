@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-    background-image: url('IMG/logo 1.7liliana.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
+    background-image: url('IMG/logo1.7 mariela.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
     background-size:auto/* Ajusta la imagen para cubrir todo el fondo */
     background-position center; /* Centra la imagen en el encabezado */
     height: 30rem; /* Altura del encabezado (ajusta según tus necesidades) */
