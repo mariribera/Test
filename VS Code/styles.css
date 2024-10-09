@@ -24,7 +24,7 @@
 }
 
 
-/CONFIGURACION DEL MENU/
+    CONFIGURACION DEL MENU/
 
 /* Establece el fondo transparente para el menú */
 nav {
@@ -64,7 +64,7 @@ a:hover {
 
 
 
-/CONFIGURACION DEL BODY/
+        /CONFIGURACION DEL BODY/
 body {
     /configura los margenes de la página/
     margin-top: 0px; /* Ajusta según la altura del menú */
